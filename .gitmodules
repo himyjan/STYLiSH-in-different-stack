@@ -1,0 +1,44 @@
+[submodule "BackEnd-SpringBoot"]
+	path = BackEnd-SpringBoot
+	url = https://github.com/himyjan/SpringBoot-STYLiSH-Back-End.git
+	branch = main
+[submodule "BackEnd-SpringBoot-Kotlin"]
+	path = BackEnd-SpringBoot-Kotlin
+	url = https://github.com/himyjan/SpringBoot-Kotlin-STYLiSH-Back-End.git
+	branch = main
+[submodule "FrontEnd-Angular"]
+	path = FrontEnd-Angular
+	url = https://github.com/himyjan/Angular-STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-React"]
+	path = FrontEnd-React
+	url = https://github.com/himyjan/STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-Vue"]
+	path = FrontEnd-Vue
+	url = https://github.com/himyjan/Vue-STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-Astro"]
+	path = FrontEnd-Astro
+	url = https://github.com/himyjan/Astro-STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-Blazor"]
+	path = FrontEnd-Blazor
+	url = https://github.com/himyjan/Blazor-STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-Nuxt"]
+	path = FrontEnd-Nuxt
+	url = https://github.com/himyjan/Nuxt-STYLiSH-Front-End.git
+	branch = main
+[submodule "FrontEnd-Nextjs"]
+	path = FrontEnd-Nextjs
+	url = https://github.com/himyjan/NextJS-STYLiSH-Front-End-Example.git
+	branch = main
+[submodule "BackEnd-ASP.NETCore-Minimal-APIs"]
+	path = BackEnd-ASP.NETCore-Minimal-APIs
+	url = https://github.com/himyjan/ASP.NETCore-Minimal-APIs-STYLiSH-Back-End.git
+	branch = main
+[submodule "BackEnd-ASP.NETCore-Controller-based-APIs"]
+	path = BackEnd-ASP.NETCore-Controller-based-APIs
+	url = https://github.com/himyjan/ASP.NETCore-Controller-based-APIs-STYLiSH-Back-End.git
+	branch = main
